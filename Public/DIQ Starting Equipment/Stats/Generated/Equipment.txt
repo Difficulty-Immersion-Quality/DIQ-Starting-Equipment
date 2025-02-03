@@ -150,7 +150,7 @@ add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
 add equipmentgroup
-add equipment entry "I_Tara_Book"
+add equipment entry "Tara_Book"
 add equipmentgroup
 add equipment entry "WPN_Quarterstaff"
 add equipmentgroup
