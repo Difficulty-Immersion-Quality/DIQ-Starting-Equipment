@@ -152,11 +152,11 @@ add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
 add equipmentgroup
 add equipment entry "Tara_Book"
 add equipmentgroup
-add equipment entry "WPN_Quarterstaff"
+add equipment entry "WPN_HUM_Quarterstaff_BSG_Gale_Aza"
 add equipmentgroup
-add equipment entry "ARM_Shoes"
+add equipment entry "ARM_BSG_Boots_Gale_Aza"
 add equipmentgroup
-add equipment entry "UNI_GaleRobe"
+add equipment entry "ARM_BSG_BattlemageAttire_Aza"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Gale"
 add equipmentgroup
